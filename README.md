@@ -18,10 +18,9 @@ Therefore, it is difficult to correctly identify noun phrases (candidate mention
 
 If you use this data, please cite (Schäfer et al. 2012).
 
-oliginal_auto_conlls: The original corpus contains inconsistet annotation in citations, 
-　　　either the parentheses arround a citation are included in the mention or not.
-citation_reformatted: Modified all citation mentions so that parentheses are not included.
-head_auto_conll: Modified all mentions into the head NPs.
+- oliginal_auto_conlls: The original corpus contains inconsistet annotation in citations, either the parentheses arround a citation are included in the mention or not.
+- citation_reformatted: Modified all citation mentions so that parentheses are not included.
+- head_auto_conll: Modified all mentions into the head NPs.
 
 To find the detailed description of the conversion, please refer to the following article: 
 Aya Iwamoto, Hiroshi Noji, Hiroyuki Shindo, and Yuji Matsumoto,
