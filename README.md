@@ -49,9 +49,9 @@ Proceedings of COLING 2012, pp.1059-1070, 2012.
 
 このデータを用いる際には，Schäferら(2012)の論文の引用をお願いします．
 
-oliginal_auto_conlls: オリジナルのコーパスを変換したもの（引用に関す売るアノテーション基準が統一されていません．引用の前後に括弧を含む場合と含まない場合が混在しています．）
-citation_reformatted: 上記を括弧を含まないように統一したもの．
-head_auto_conll:head NPへアノテーションを変更したもの
+- original_auto_conlls: オリジナルのコーパスを変換したもの（引用に関す売るアノテーション基準が統一されていません．引用の前後に括弧を含む場合と含まない場合が混在しています．）
+- citation_reformatted: 上記を括弧を含まないように統一したもの．
+- head_auto_conll:head NPへアノテーションを変更したもの
 
 変換に関する詳しい説明は，以下の論文を参照してください．
 Aya Iwamoto, Hiroshi Noji, Hiroyuki Shindo, and Yuji Matsumoto,
