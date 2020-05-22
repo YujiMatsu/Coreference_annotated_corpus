@@ -23,13 +23,10 @@ If you use this data, please cite (Schäfer et al. 2012).
 - head_auto_conll: Modified all mentions into the head NPs.
 
 To find the detailed description of the conversion, please refer to the following article: 
+
 Aya Iwamoto, Hiroshi Noji, Hiroyuki Shindo, and Yuji Matsumoto,
 "Toward Coreference Resolution in Scientific Domain,"
  In Proceedings of First International Workshop on ScIentific Document Analysis (SCIDOCA 2016), Keio University, Kanagawa, Japan, November 15, 2016.
-
-岩元文, 能地宏, 進藤裕之, 松本裕治：
-"科学技術文献の共参照解析コーパスの整備",
-言語処理学会第２３回年次大会発表論文集, 筑波大学, pp50-53, March 14, 2017.
 
 ---------- in Japanese ----------
 このコーパスは(Schäfer et al. 2012)らのデータに基づいています：
