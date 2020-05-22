@@ -54,9 +54,11 @@ Proceedings of COLING 2012, pp.1059-1070, 2012.
 - head_auto_conll:head NPへアノテーションを変更したもの
 
 変換に関する詳しい説明は，以下の論文を参照してください．
+
 Aya Iwamoto, Hiroshi Noji, Hiroyuki Shindo, and Yuji Matsumoto,
 "Toward Coreference Resolution in Scientific Domain,"
  In Proceedings of First International Workshop on ScIentific Document Analysis (SCIDOCA 2016), Keio University, Kanagawa, Japan, November 15, 2016.
+
 岩元文, 能地宏, 進藤裕之, 松本裕治：
 "科学技術文献の共参照解析コーパスの整備",
 言語処理学会第２３回年次大会発表論文集, 筑波大学, pp50-53, March 14, 2017.
