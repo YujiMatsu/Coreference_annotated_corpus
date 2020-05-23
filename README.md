@@ -25,7 +25,7 @@ If you use this data, please cite (Schäfer et al. 2012).
 To find the detailed description of the conversion, please refer to the following article: 
 
 Aya Iwamoto, Hiroshi Noji, Hiroyuki Shindo, and Yuji Matsumoto,
-"Toward Coreference Resolution in Scientific Domain,"
+"<a href="https://github.com/YujiMatsu/Coreference_annotated_corpus/SCIDOCA2016_iwamoto.pdf>Toward Coreference Resolution in Scientific Domain</a>,"
  In Proceedings of First International Workshop on ScIentific Document Analysis (SCIDOCA 2016), Keio University, Kanagawa, Japan, November 15, 2016.
 
 ---------- in Japanese ----------
