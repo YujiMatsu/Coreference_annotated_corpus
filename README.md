@@ -26,7 +26,7 @@ To find the detailed description of the conversion, please refer to the followin
 
 Aya Iwamoto, Hiroshi Noji, Hiroyuki Shindo, and Yuji Matsumoto,
 "<a href="https://github.com/YujiMatsu/Coreference_annotated_corpus/blob/master/SCIDOCA2016_iwamoto.pdf">Toward Coreference Resolution in Scientific Domain</a>,"
- In Proceedings of First International Workshop on ScIentific Document Analysis (SCIDOCA 2016), Keio University, Kanagawa, Japan, November 15, 2016.
+ In Proceedings of First International Workshop on Scientific Document Analysis (SCIDOCA 2016), Keio University, Kanagawa, Japan, November 15, 2016.
 
 ---------- in Japanese ----------
 このコーパスは(Schäfer et al. 2012)らのデータに基づいています：
@@ -54,7 +54,7 @@ Proceedings of COLING 2012, pp.1059-1070, 2012.
 
 Aya Iwamoto, Hiroshi Noji, Hiroyuki Shindo, and Yuji Matsumoto,
 "Toward Coreference Resolution in Scientific Domain,"
- In Proceedings of First International Workshop on ScIentific Document Analysis (SCIDOCA 2016), Keio University, Kanagawa, Japan, November 15, 2016.
+ In Proceedings of First International Workshop on Scientific Document Analysis (SCIDOCA 2016), Keio University, Kanagawa, Japan, November 15, 2016.
 
 岩元文, 能地宏, 進藤裕之, 松本裕治：
 "科学技術文献の共参照解析コーパスの整備",
